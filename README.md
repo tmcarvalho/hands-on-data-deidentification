@@ -34,8 +34,7 @@ pipenv install
 pipenv shell
 ````
 
-For the jupyter notebook, you should first install it and then launch it.
+Launch the jupyter notebook.
 ````
-pipenv install jupyter
 pipenv run jupyter notebook
 ````
