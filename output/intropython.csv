@@ -1,0 +1,13 @@
+school,age,sex,G1_max,G2_max,grades_avg,grades_binary,grades_binary_,concatenated
+MS,15,F,14,16,15,High,High,15--F
+MS,15,M,13,14,13,Low,Low,15--M
+MS,16,F,17,17,17,High,High,16--F
+MS,16,M,14,13,13,Low,Low,16--M
+MS,17,F,18,18,18,High,High,17--F
+MS,17,M,15,15,15,High,High,17--M
+MS,18,F,19,18,18,High,High,18--F
+MS,18,M,17,18,17,High,High,18--M
+MS,19,F,12,13,12,Low,Low,19--F
+MS,19,M,10,11,10,Low,Low,19--M
+MS,20,F,11,9,10,Low,Low,20--F
+MS,20,M,8,11,9,Low,Low,20--M
