@@ -9,6 +9,8 @@ pandas = "*"
 seaborn = "*"
 scikit-learn = "*"
 xgboost = "*"
+sdv = "*"
+recordlinkage = "*"
 
 [dev-packages]
 
